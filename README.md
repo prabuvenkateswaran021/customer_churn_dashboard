@@ -8,6 +8,8 @@ A Power BI-style interactive web dashboard for analyzing customer churn in a tel
 
 > Open `customer_churn_dashboard.html` in any modern browser to view the full interactive dashboard.
 
+https://prabuvenkateswaran021.github.io/customer_churn_dashboard/
+
 ---
 
 ## 📁 Repository Structure
